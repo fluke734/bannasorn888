@@ -121,8 +121,45 @@
   margin-top: 10px;
   cursor: pointer;
 }
-  
+.h2 {
+  font-size: 2rem;
+  color: white;
+  margin-top: 20px;
+}
 
+p {
+  font-size: 1.2rem;
+  color: white;
+  margin-top: 10px;
+}
+.p1 {
+  font-size: 2rem;
+  color: cyan;
+  margin-top: 10px;
+background-color: rgb(0, 76, 241);
+
+}
+#inform {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+ 
+}
+.box1 {
+ display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+h3 {
+  font-size: 2rem;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+}
 
 
         
